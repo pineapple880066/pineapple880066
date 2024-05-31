@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pineapple880066
+- 👀 I’m interested in Coding C++
+- 🌱 I’m currently learning in a college
