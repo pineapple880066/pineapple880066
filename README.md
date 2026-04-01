@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pineapple880066
-- 👀 I’m interested in coding agent and all agents like XX CLI/OpenClaw
-- 🌱 I’m currently learning in a college
+- I’m @pineapple880066
+- I’m interested in coding agent and all agents like Gemini CLI/Codex/OpenClaw
+- I’m currently learning in a college
